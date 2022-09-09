@@ -1,6 +1,10 @@
 # Initial setup
 
-# NOTES
+## Release notes
+
+From PRs
+
+## NOTES
 
 - https://github.com/git-chglog/git-chglog
 
